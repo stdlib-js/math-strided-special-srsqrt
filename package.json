@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-srsqrt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute the reciprocal square root for each element in a single-precision floating-point strided array.",
   "license": "Apache-2.0",
   "author": {
