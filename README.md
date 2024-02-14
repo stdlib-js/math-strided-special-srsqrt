@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import srsqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-srsqrt@esm/index.mjs';
+import srsqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-srsqrt@v0.2.0-esm/index.mjs';
 ```
 
 #### srsqrt( N, x, strideX, y, strideY )
@@ -157,7 +157,7 @@ srsqrt.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import srsqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-srsqrt@esm/index.mjs';
+import srsqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-srsqrt@v0.2.0-esm/index.mjs';
 
 var x = new Float32Array( 10 );
 var y = new Float32Array( 10 );
